@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Statistical+Modeling];[Data+Storyteller]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Statistical+Modeling;Data+Storyteller" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -15,7 +15,19 @@
 </p>
 
 ## 🚀 About Me 
-I am a dedicated and results-driven Business Analyst with 3+ years of experience in healthcare data analysis. My passion lies in translating complex business challenges into actionable insights and strategies. My career has seen me work with diverse teams, collaborating closely with stakeholders to drive informed decision-making and optimize operations. Whether it's enhancing operational efficiency, identifying revenue opportunities, or implementing data-driven solutions, I'm committed to delivering tangible results. I'm enthusiastic about data visualization and business intelligence, and I'm excited to connect with like-minded professionals to exchange ideas and insights. Let's connect and explore potential opportunities for collaboration!
+My journey started in healthcare. I was curious about how systems work, how decisions get made, and why numbers don’t always tell the full story. That curiosity pulled me into data — and data opened doors I didn’t expect.
+
+From healthcare analytics to working with teams connected to the WHO, to roles at BECU and research in econometrics, each step sharpened both my technical and communication skills. I learned that good analysis isn’t just about models, it’s also about alignment, clarity, and trust.
+
+Today, I work across:
+- Excel, SQL, Python, and R to query, clean, and transform data  
+- Building structured datasets and validating them with proper guardrails  
+- Automating reporting in Power BI and Tableau  
+- Translating analysis into insights that stakeholders can actually use  
+
+I didn’t start with a strong math background, just curiosity and persistence. Over time, I’ve grown to genuinely love data analysis (yes, even debugging). Learning takes time, but momentum compounds. I’m excited about roles that blend technical depth with business strategy, stakeholder collaboration, and decision-making impact. I also write about data, healthcare, and analytics on Medium.
+
+Feel free to explore my projects and reach out to me. I am always happy to connect.
 
 My favorite quote is "All our dreams can come true if we have the courage to pursue them" (Walt Disney)
 
